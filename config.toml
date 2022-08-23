@@ -21,7 +21,7 @@ keywords = [ "Daniel Park", "Blog", "Portfolio", "PaperMod" ]
 author = "Daniel Park"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
-defaultTheme = "auto"
+defaultTheme = "dark"
 disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = true
@@ -111,7 +111,7 @@ SiteVerificationTag = "XYZabc"
 [[menu.main]]
 identifier = "archive"
 name = "Posts"
-url = "archive"
+url = "posts"
 weight = 5
 
 [[menu.main]]
