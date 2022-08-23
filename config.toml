@@ -1,0 +1,128 @@
+baseURL = "https://danpark13.github.io/"
+title = "Daniel Park"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Daniel Park"
+description = "Daniel Park's Portfolio Blog"
+keywords = [ "Daniel Park", "Blog", "Portfolio", "PaperMod" ]
+author = "Daniel Park"
+images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.assets]
+  favicon = "images/favicon.ico"
+  favicon16x16 = "images/favicon-16x16.ico"
+  favicon32x32 = "images/favicon-32x32.ico"
+  apple_touch_icon = "images/apple-touch-icon.png"
+  safari_pinned_tab = "images/apple-touch-icon.png"
+
+  [params.label]
+  text = "Daniel Park"
+  icon = "images/apple-touch-icon.png"
+  iconHeight = 24
+
+  [params.profileMode]
+  enabled = true
+  title = "Daniel Park"
+  subtitle = "Data Applications | UX Design | Tech Education"
+  imageUrl = "images/avatar.png"
+  imageWidth = 180
+  imageHeight = 180
+  imageTitle = "Daniel Photo"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "Welcome to my blog"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/danjaepark"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/DanPark13"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/danielpark13/"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:dpark0703@gmail.com"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/<path_to_repo>/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "archive"
+name = "Posts"
+url = "archive"
+weight = 5
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[menu.main]]
+name = "Search"
+url = "search"
+weight = 15
+
+[markup.highlight]
+noClasses = false
