@@ -48,7 +48,8 @@ window.onload = function () {
             }
         }
     };
-    xhr.open('GET', "../index.json");
+    xhr.open("GET", "https://danpark13.github.io/index.json");
+    // xhr.open('GET', "../index.json");
     xhr.send();
 }
 
