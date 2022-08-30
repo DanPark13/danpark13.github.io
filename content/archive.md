@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Projects"
 layout: "archives"
 url: "/archive"
 summary: "archives"

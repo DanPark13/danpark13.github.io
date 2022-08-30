@@ -109,15 +109,21 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "archive"
-name = "Blogs"
-url = "archive"
+identifier = "posts"
+name = "Posts"
+url = "posts"
 weight = 5
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "projects"
+weight = 10
 
 [[menu.main]]
 name = "Tags"
 url = "tags/"
-weight = 10
+weight = 15
 
 # [[menu.main]]
 # name = "Search"

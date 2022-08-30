@@ -11,7 +11,6 @@ draft: false
 hidemeta: false
 comments: false
 description: "Is there a better way to kick off a programmer's blog than a Hello World entry?"
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
