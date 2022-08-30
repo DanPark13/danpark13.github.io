@@ -110,7 +110,7 @@ SiteVerificationTag = "XYZabc"
 
 [[menu.main]]
 identifier = "archive"
-name = "Posts"
+name = "Blogs"
 url = "archive"
 weight = 5
 
@@ -119,10 +119,10 @@ name = "Tags"
 url = "tags/"
 weight = 10
 
-[[menu.main]]
-name = "Search"
-url = "search"
-weight = 15
+# [[menu.main]]
+# name = "Search"
+# url = "search"
+# weight = 15
 
 [markup.highlight]
 noClasses = false
