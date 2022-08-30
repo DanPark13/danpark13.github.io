@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>kaggle on Daniel Park</title>
-    <link>https://danpark13.github.io/tags/kaggle/</link>
-    <description>Recent content in kaggle on Daniel Park</description>
+    <title>Projects on Daniel Park</title>
+    <link>https://danpark13.github.io/projects/</link>
+    <description>Recent content in Projects on Daniel Park</description>
     <image>
       <url>https://danpark13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://danpark13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://danpark13.github.io/tags/kaggle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://danpark13.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Species Endangerment in American National Parks</title>
       <link>https://danpark13.github.io/projects/biodiv-parks/</link>
@@ -17,6 +17,15 @@
       
       <guid>https://danpark13.github.io/projects/biodiv-parks/</guid>
       <description>Identify patterns in Species Endangerment through all American National Parks</description>
+    </item>
+    
+    <item>
+      <title>America&#39;s Views on Pre-Marital Sex</title>
+      <link>https://danpark13.github.io/projects/sex-bf-marr/</link>
+      <pubDate>Tue, 12 Apr 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/projects/sex-bf-marr/</guid>
+      <description>How Opinions on Pre-Martial Sex have changed over time across different religious backgrounds</description>
     </item>
     
   </channel>
