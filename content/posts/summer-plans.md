@@ -7,7 +7,7 @@ tags: ["blog","plans","about","life-update","summer","summer22"]
 author: "Daniel Park"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Getting the most out of my summer"

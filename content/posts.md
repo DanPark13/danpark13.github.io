@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-layout: "projects"
-url: "/projects"
-summary: "projects"
+title: "Posts"
+layout: "posts"
+url: "/posts"
+summary: "posts"
 ---
