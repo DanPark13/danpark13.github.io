@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on Daniel Park</title>
-    <link>https://danpark13.github.io/tags/blog/</link>
-    <description>Recent content in blog on Daniel Park</description>
+    <title>technical-prep on Daniel Park</title>
+    <link>https://danpark13.github.io/tags/technical-prep/</link>
+    <description>Recent content in technical-prep on Daniel Park</description>
     <image>
       <url>https://danpark13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://danpark13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://danpark13.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://danpark13.github.io/tags/technical-prep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planning for Summer &#39;22</title>
       <link>https://danpark13.github.io/posts/summer-plans/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://danpark13.github.io/posts/summer-plans/</guid>
       <description>Getting the most out of my summer.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://danpark13.github.io/posts/hello-world/</link>
-      <pubDate>Sun, 08 May 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/posts/hello-world/</guid>
-      <description>Is there a better way to kick off a programmer&amp;#39;s blog than a Hello World entry?</description>
     </item>
     
   </channel>
