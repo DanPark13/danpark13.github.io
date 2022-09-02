@@ -1,6 +1,6 @@
 ---
 title: "Planning for Summer '22"
-date: 2022-08-30T11:30:03+00:00
+date: 2022-05-23T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["blog","plans","about","life-update","summer","summer22", "pfizer", "google","data-analytics", "technical-prep", "leetcode", "ml","andrew-ng"]
@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-**NOTE**: Because I am writing this entry after summer ended, this will be a more "reflection" piece than a "planning" one.
+**NOTE**: Because I am updating this entry after summer ended, this will be a more "reflection" piece than a "planning" one.
 
 ## Going into the Summer
 
