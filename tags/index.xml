@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>andrew-ng</title>
-      <link>https://danpark13.github.io/tags/andrew-ng/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/tags/andrew-ng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>blog</title>
       <link>https://danpark13.github.io/tags/blog/</link>
       <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
@@ -38,29 +29,11 @@
     </item>
     
     <item>
-      <title>data-analytics</title>
-      <link>https://danpark13.github.io/tags/data-analytics/</link>
+      <title>fall22</title>
+      <link>https://danpark13.github.io/tags/fall22/</link>
       <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://danpark13.github.io/tags/data-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>google</title>
-      <link>https://danpark13.github.io/tags/google/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/tags/google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>leetcode</title>
-      <link>https://danpark13.github.io/tags/leetcode/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/tags/leetcode/</guid>
+      <guid>https://danpark13.github.io/tags/fall22/</guid>
       <description></description>
     </item>
     
@@ -70,24 +43,6 @@
       <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
       
       <guid>https://danpark13.github.io/tags/life-update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ml</title>
-      <link>https://danpark13.github.io/tags/ml/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/tags/ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pfizer</title>
-      <link>https://danpark13.github.io/tags/pfizer/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/tags/pfizer/</guid>
       <description></description>
     </item>
     
@@ -110,9 +65,63 @@
     </item>
     
     <item>
+      <title>andrew-ng</title>
+      <link>https://danpark13.github.io/tags/andrew-ng/</link>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/tags/andrew-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-analytics</title>
+      <link>https://danpark13.github.io/tags/data-analytics/</link>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://danpark13.github.io/tags/google/</link>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leetcode</title>
+      <link>https://danpark13.github.io/tags/leetcode/</link>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://danpark13.github.io/tags/ml/</link>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pfizer</title>
+      <link>https://danpark13.github.io/tags/pfizer/</link>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://danpark13.github.io/tags/pfizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>summer22</title>
       <link>https://danpark13.github.io/tags/summer22/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
       
       <guid>https://danpark13.github.io/tags/summer22/</guid>
       <description></description>
@@ -121,7 +130,7 @@
     <item>
       <title>technical-prep</title>
       <link>https://danpark13.github.io/tags/technical-prep/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
       
       <guid>https://danpark13.github.io/tags/technical-prep/</guid>
       <description></description>

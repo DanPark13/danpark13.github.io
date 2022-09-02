@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>summer on Daniel Park</title>
-    <link>https://danpark13.github.io/tags/summer/</link>
-    <description>Recent content in summer on Daniel Park</description>
+    <title>fall22 on Daniel Park</title>
+    <link>https://danpark13.github.io/tags/fall22/</link>
+    <description>Recent content in fall22 on Daniel Park</description>
     <image>
       <url>https://danpark13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://danpark13.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://danpark13.github.io/tags/summer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://danpark13.github.io/tags/fall22/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planning for Fall &#39;22</title>
       <link>https://danpark13.github.io/posts/fall-plans/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://danpark13.github.io/posts/fall-plans/</guid>
       <description>Getting the most out of my fall semester of junior year.</description>
-    </item>
-    
-    <item>
-      <title>Planning for Summer &#39;22</title>
-      <link>https://danpark13.github.io/posts/summer-plans/</link>
-      <pubDate>Mon, 23 May 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://danpark13.github.io/posts/summer-plans/</guid>
-      <description>Getting the most out of my summer.</description>
     </item>
     
   </channel>
