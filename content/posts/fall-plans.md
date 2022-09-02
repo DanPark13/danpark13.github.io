@@ -40,13 +40,13 @@ editPost:
 
 ### Classes
 
-#### Discrete Math
+**1. Discrete Math**
 
-#### User Experience Design
+**2. User Experience Design**
 
-#### Probabilistic Modeling
+**3. Probabilistic Modeling**
 
-#### Introduction to Computational Robotics
+**4. Introduction to Computational Robotics**
 
 ### Technical Interview Prep
 
